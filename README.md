@@ -21,7 +21,7 @@ Este projeto tem como objetivo criar um site educacional inspirado no DVWA e Acu
 - Outras vulnerabilidades comuns em aplicações web
 
 ## Metodologia
-O projeto será desenvolvido com base na metodologia ágil Scrum, dividido em sprints semanais ao longo de 3 meses (12 semanas). Cada sprint terá objetivos claros e entregáveis definidos.
+O projeto será desenvolvido com base na metodologia ágil Scrum, dividido em sprints semanais ao longo de 4 meses (16 semanas). Cada sprint terá objetivos claros e entregáveis definidos.
 
 ---
 
@@ -68,7 +68,7 @@ O projeto será desenvolvido com base na metodologia ágil Scrum, dividido em sp
 
 ---
 
-### **Mês 3: Finalização e Testes**
+### **Mês 3: Finalização de Funcionalidades**
 #### **Semana 9**
 - Implementação de uma funcionalidade vulnerável a Cross-Site Request Forgery (CSRF)
 - Implementação de uma funcionalidade vulnerável a upload de arquivos inseguros
@@ -87,9 +87,25 @@ O projeto será desenvolvido com base na metodologia ágil Scrum, dividido em sp
 #### **Semana 12**
 - Implementação de uma funcionalidade vulnerável a configuração de segurança inadequada
 - Implementação de uma funcionalidade vulnerável a deserialização insegura
+
+---
+
+### **Mês 4: Testes Finais e Apresentação**
+#### **Semana 13**
 - Implementação de uma funcionalidade vulnerável à falta de limitação de taxa (Rate Limiting)
+- Revisão geral do código e funcionalidades
+
+#### **Semana 14**
+- Testes de segurança finais e validação de todas as vulnerabilidades implementadas
+- Ajustes com base nos resultados dos testes
+
+#### **Semana 15**
+- Preparação do ambiente para demonstração
+- Criação de documentação final do projeto
+
+#### **Semana 16**
 - Apresentação do projeto
-- Feedback e ajustes finais
+- Coleta de feedback e ajustes finais
 
 ---
 
